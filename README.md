@@ -7,5 +7,5 @@ This is a collection of Notebooks for Algorithms used in the field of Bioinforma
 "Blatt6"-Sorting Newick-Strings, Prune-and-regraft on Phylogenetic Trees <br>
 "Blatt7"-Bond-Bending Networks and Pebble-Game-Algorithm <br>
 "Blatt8"-K-means,K-Center and Lloyd-Algorithm <br>
-"Blatt9"-Soft K-Means using HiddenMatrics <br>
+"Blatt9"-Soft K-Means using HiddenMatrices <br>
 

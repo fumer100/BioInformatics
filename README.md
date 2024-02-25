@@ -1,5 +1,5 @@
 # BioInformatics
-This is a collection of Notebooks for Algorithms used in the field of Bioinformatics <br>
+This is a collection of notebooks for algorithms used in the field of bioinformatics. <br>
 "Blatt2"-Longest Common (Gene)Sequence <br>
 "Blatt3"-LCS Backtracking, Global and Local Sequence Alignments <br>
 "Blatt4"-Formatting Newick-Strings to binary-trees <br>
